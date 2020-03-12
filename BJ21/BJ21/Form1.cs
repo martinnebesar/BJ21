@@ -492,8 +492,8 @@ namespace BJ21
                     else if (playercardSum == 21)
                     {
                         rsltLabel.Text = String.Format
-                            ("The sum of your cards is {0}, you win!", playercardSum);
-                        MessageBox.Show("You win!", "", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                            ("The sum of your cards is {0}, you win!!!", playercardSum);
+                        MessageBox.Show("You win!!!", "", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                         resetGame();
                     }
                 }
