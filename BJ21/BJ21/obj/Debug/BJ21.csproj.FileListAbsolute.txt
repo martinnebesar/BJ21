@@ -1,0 +1,10 @@
+C:\Martin\BJ21\BJ21\bin\Debug\BJ21.exe.config
+C:\Martin\BJ21\BJ21\bin\Debug\BJ21.exe
+C:\Martin\BJ21\BJ21\bin\Debug\BJ21.pdb
+C:\Martin\BJ21\BJ21\obj\Debug\BJ21.csprojAssemblyReference.cache
+C:\Martin\BJ21\BJ21\obj\Debug\BJ21.Form1.resources
+C:\Martin\BJ21\BJ21\obj\Debug\BJ21.Properties.Resources.resources
+C:\Martin\BJ21\BJ21\obj\Debug\BJ21.csproj.GenerateResource.cache
+C:\Martin\BJ21\BJ21\obj\Debug\BJ21.csproj.CoreCompileInputs.cache
+C:\Martin\BJ21\BJ21\obj\Debug\BJ21.exe
+C:\Martin\BJ21\BJ21\obj\Debug\BJ21.pdb
